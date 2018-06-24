@@ -1,0 +1,14 @@
+.navbar-brand {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+h1 {
+  font-family: 'Georgia', Times, Times New Roman, serif;
+  width: 10%;
+  color: #4aaaa5;
+  margin-bottom: 20px;
+}
+
+.p-2 {
+    padding:50px;
+}
